@@ -1,0 +1,11 @@
+autopep8==2.0.2
+certifi==2022.12.7
+charset-normalizer==3.1.0
+idna==3.4
+liqpay==1.0.1
+liqpay-python==1.0
+peppercorn==0.6
+pycodestyle==2.10.0
+requests==2.29.0
+sampleproject==3.0.0
+urllib3==1.26.15
